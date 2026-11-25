@@ -1,0 +1,4 @@
+/build/
+/*.exe
+/omp-overlay-layout.json
+/omp-overlay-layout.part
