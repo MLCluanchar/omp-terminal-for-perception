@@ -2,7 +2,7 @@
 
 Run the native Oh My Pi (OMP) terminal in a Perception overlay on Windows. An Enma script renders the terminal and handles interaction. A local host runs OMP through Windows ConPTY. OMP manages its own models, sign-in, and session history. [Oh My Pi](https://github.com/can1357/oh-my-pi)
 
-![Oh My Pi scrollback in the Perception overlay, with the on-screen keyboard and Jump to latest button visible](docs/omp-terminal.png)
+![Oh My Pi scrollback in the Perception overlay, with the on-screen keyboard and Jump to latest button visible](docs/omp-terminal-scrollback.png)
 
 ## Requirements
 
