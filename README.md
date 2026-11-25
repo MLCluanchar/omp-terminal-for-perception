@@ -58,4 +58,6 @@ build.cmd "C:\path\to\libvterm" "C:\path\to\json-header-directory"
 
 The first argument points to the libvterm checkout. The second points to the folder containing `json.hpp`. The build generates both host executables next to `build.cmd`. [libvterm commit 934bc2f](https://github.com/neovim/libvterm/tree/934bc2fbf21800ac3458a499df8820ca5fb45fd3) · [nlohmann/json 3.11.3 single header](https://github.com/nlohmann/json/blob/v3.11.3/single_include/nlohmann/json.hpp)
 
-Third-party license notices are included with the source. [libvterm](LICENSE-libvterm.txt) · [nlohmann/json](LICENSE-json.txt) · [simple-keyboard](LICENSE-simple-keyboard.txt)
+## License
+
+OMP Terminal for Perception is licensed under the [MIT License](LICENSE). Third-party notices are included. [libvterm](LICENSE-libvterm.txt) · [nlohmann/json](LICENSE-json.txt) · [simple-keyboard](LICENSE-simple-keyboard.txt)
